@@ -1,0 +1,7 @@
+ipykernel
+streamlit 
+ultralytics 
+opencv-python 
+pandas 
+matplotlib
+fpdf

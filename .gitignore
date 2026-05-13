@@ -1,0 +1,69 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Dataset folders
+paytm-logo-detection.v2i.yolov8/
+datasets/
+data/
+
+# YOLO / Training outputs
+runs/
+run/
+run2/
+run3/
+outputs/
+
+# Model weights
+*.pt
+*.pth
+*.weights
+*.onnx
+*.engine
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Generated reports
+*.csv
+
+# Large media / exports
+*.gif
+*.zip
+*.rar
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore trained model directory
+yolov8m_paytm_logo_optuna2/
+
+# Ignore generated notebooks outputs
+*.nbconvert.ipynb
