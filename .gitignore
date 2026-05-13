@@ -31,7 +31,6 @@ runs/
 run/
 run2/
 run3/
-outputs/
 
 # Model weights
 *.pt
